@@ -1,3 +1,6 @@
+# ATENÇÃO
+Este repositório é um clone do repositório original no qual aqui foram excluídos os controllers, rotas, migrations e models que comprometessem a segurança do domínio em questão, pois este é um projeto para cliente real. O objetivo da criação desta clonagem é divulgar o trabalho em equipe do grupo 4 de PHP do treinamento Entra21 da Blusoft/Fapesc. Caso você, como empresa contratante, deseje ver o código na íntegra, solicite acesso ao repositório original. Os dados dos integrantes estão na seção Developers.
+
 <h1> Projeto Eva</h1>
 <h3> TCC do programa de capacitação Entra21</h3>
 
